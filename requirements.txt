@@ -5,3 +5,5 @@ nltk
 unidecode
 joblib
 openpyxl
+matplotlib
+seaborn

@@ -1,4 +1,12 @@
-venv/
-*.pyc
 __pycache__/
-node_modules/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.egg-info/
+.env
+.venv/
+venv/
+.vscode/
+data/*.xlsx
