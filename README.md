@@ -18,3 +18,10 @@ lyrics-classifier/
 ├── predict.py       # Arquivo para fazer previsões
 ├── requirements.txt
 └── README.md
+
+Projeto feito para discoplica de Engenharia de Software, integrantes do grupo:
+Eduardo Henrique Sidronio de Araujo
+Lucas Manfrim Bastista
+Gabriel Inowe Dutra
+Gabriel Souza Lopes
+Murilo Ferreira Canaver
